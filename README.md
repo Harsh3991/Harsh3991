@@ -76,11 +76,11 @@ const harshwardhan = {
 **Tech Stack:** MongoDB • Express.js • React • Node.js • Socket.IO • JWT • Cloudinary
 
 ✨ **Key Features:**
-- 🔐 Secure authentication with JWT and bcrypt
-- ⚡ Real-time message delivery using Socket.IO
-- 🖼️ Profile picture uploads via Cloudinary integration
-- 🎨 Responsive, themeable UI with Tailwind CSS
-- 📱 Seamless experience across all devices
+- 🔐 Secure authentication with JWT and bcrypt.
+- ⚡ Real-time message delivery using Socket.IO.
+- 🖼️ Profile picture uploads via Cloudinary integration.
+- 🎨 Responsive, themeable UI with Tailwind CSS.
+- 📱 Seamless experience across all devices.
 
 ---
 
